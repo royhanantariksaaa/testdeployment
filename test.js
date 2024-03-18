@@ -1,1 +1,1 @@
-//batal lagi batal lagi
+console.log("Hello world")
