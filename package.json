@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/royhanantariksaaa/testdeployment#readme",
   "dependencies": {
-    "express": "^4.18.3"
+    "express": "^4.18.3",
+    "pm2": "^5.3.1"
   }
 }
