@@ -21,4 +21,5 @@ jobs:
             git status
             npm install --omit=dev
             cd src
+            prisma generate
             pm2 restart main.js
