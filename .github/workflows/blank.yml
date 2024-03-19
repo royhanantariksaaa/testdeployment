@@ -19,6 +19,6 @@ jobs:
             cd ~/apps/testdeployment
             git pull origin main
             git status
-            npm install --only=prod
+            npm install --omit=dev
             cd src
             pm2 restart main.js
