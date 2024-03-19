@@ -1,0 +1,1 @@
+console.log("Started on a summer sunday. Your pink dress on the setting sun. You were going to grandma's house, I was too scared to come")
